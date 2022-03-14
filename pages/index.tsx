@@ -15,7 +15,7 @@ const IndexPage = () => {
       <Flex direction="column" background={formBackground} p={12} rounded={6}>
         <Heading mb={6}>Log in</Heading>
         <Input
-          placeholder="evyatar@chakra-ui.com"
+          placeholder="example@chakra-ui.com"
           variant="filled"
           mb={3}
           type="email"
